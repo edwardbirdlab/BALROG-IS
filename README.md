@@ -1,4 +1,4 @@
-<h3 align="center">This pipeline is will take the metagenomic short read portions of BALROG-MON and make it its own pipeline. This is still a work in progress. Ignore the rest of this readme it has not been updated, and still corresponds to BALROG-MON</h3>
+<h3 align="center">This pipeline is will take the Isolate short read portions of BALROG-MON and make it its own pipeline. This is still a work in progress. Ignore the rest of this readme it has not been updated, and still corresponds to BALROG-MON</h3>
 
 <br />
 
